@@ -27,7 +27,7 @@ function App() {
           <Route path='/contact'>
             <Contact/>
           </Route>
-          <Route path='newproject'>
+          <Route path='/newproject'>
             <NewProject/>
           </Route>
         </Container>
