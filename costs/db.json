@@ -7,8 +7,33 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 1013,
+      "services": [
+        {
+          "name": "serviço 1",
+          "cost": "200",
+          "description": "servico 1",
+          "id": "2371de0a-fe61-4342-b736-6b050090f412"
+        },
+        {
+          "name": "serviço 1",
+          "cost": "300",
+          "description": "servico 1",
+          "id": "5a24ae69-97c6-470b-ae45-511954b625c2"
+        },
+        {
+          "name": "serviço 1",
+          "cost": "300",
+          "description": "servico 1",
+          "id": "5a24ae69-97c6-470b-ae45-511954b625c2"
+        },
+        {
+          "name": "Daniele Carnaúba",
+          "cost": "213",
+          "description": "ERSA",
+          "id": "1c03c482-292c-4b0d-83ae-627942047a46"
+        }
+      ],
       "id": 1
     },
     {
