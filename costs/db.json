@@ -7,7 +7,7 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 1013,
+      "cost": 1036,
       "services": [
         {
           "name": "serviço 1",
@@ -32,6 +32,12 @@
           "cost": "213",
           "description": "ERSA",
           "id": "1c03c482-292c-4b0d-83ae-627942047a46"
+        },
+        {
+          "name": "SERVICO",
+          "cost": "23",
+          "description": "TESTE",
+          "id": "100c2b86-5a59-40df-9127-3923e4c283dc"
         }
       ],
       "id": 1
@@ -43,8 +49,15 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 100,
+      "services": [
+        {
+          "name": "Serviço 1",
+          "cost": "100",
+          "description": "Serviço 1",
+          "id": "d1a19559-5e50-4661-a14b-8447e07d67b0"
+        }
+      ],
       "id": 2
     }
   ],
